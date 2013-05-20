@@ -4,9 +4,9 @@ _- A simple plugin which allows you to simply promote your app on your page_
 
 ## Installation
 
-# Upload the folder to wp-content/plugins/
-# Activate the plugin in wordpress by visiting Plugins
-# Add your iPhone App ID, your Google App id and if you want to, a text used to promote the Android app in the dialog box. 
+- Upload the folder to wp-content/plugins/
+- Activate the plugin in wordpress by visiting Plugins
+- Add your iPhone App ID, your Google App id and if you want to, a text used to promote the Android app in the dialog box. 
 
 ## What it does
 
