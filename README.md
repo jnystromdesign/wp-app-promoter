@@ -18,8 +18,10 @@ For Android users a dialog box will appear, which will ask people if the want to
 
 ### iPhone App
 Surf to your app in itunes and pick out the ID from the url
+
 ![Alt text](http://cl.ly/image/0f3i0M270B0r/ios-app-id.png)
 
 ### Android App
 Surf to your app in Google Play and pick out the ID from the url
+
 ![Alt text](http://cl.ly/image/0n1b2f2C2T27/android-app-id.png)
